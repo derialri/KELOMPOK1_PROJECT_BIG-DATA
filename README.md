@@ -15,8 +15,8 @@ Seluruh proses pengolahan data—mulai dari tahap ekstraksi, pembersihan data (d
 
 Karena dataset yang kami gunakan cukup besar (lebih dari 500 MB), kami merancang agar program ini efisien dan praktis saat diuji.
 
-## Cara Menjalankan Program (Panduan untuk Dosen/Reviewer)
-Program ini sudah kami atur sedemikian rupa agar Bapak/Ibu Dosen tidak perlu repot mengunduh atau mengunggah dataset secara manual. 
+## Cara Menjalankan Program
+Program ini sudah kami atur sedemikian rupa agar yang melihat repositori kami tidak perlu repot mengunduh atau mengunggah dataset secara manual. 
 
 Untuk melihat hasilnya:
 1. Buka file notebook `.ipynb` kami melalui Google Colab.
