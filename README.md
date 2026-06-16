@@ -23,10 +23,4 @@ Untuk melihat hasilnya:
 2. Klik menu **Runtime** di bagian atas, lalu pilih **Run all**.
 3. Selesai! Sel di baris paling awal akan otomatis mengunduh dataset secara aman dari *cloud* kami, lalu mengeksekusi seluruh analisis dan grafiknya hingga akhir tanpa terjadi *error* pada direktori data.
 
-## 🎥 Video Penjelasan
-Untuk pemaparan yang lebih komprehensif mengenai latar belakang, alur EDA, dan *insight* yang kami dapatkan dari grafik, silakan tonton video penjelasan kami (durasi 8-10 menit) pada tautan berikut:
-
-👉 **[Tautan Video Penjelasan YouTube/Gdrive ditaruh di sini]**
-
----
 Terima kasih sudah meninjau proyek kami! Salam hangat dari Kelompok 1.
